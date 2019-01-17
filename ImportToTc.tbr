@@ -1,0 +1,15 @@
+VERSION 170
+EDIT UG_GATEWAY_MAIN_MENUBAR
+
+BEFORE UG_HELP
+CASCADE_BUTTON  Custom_Test_Button
+LABEL  Custom_Data_Exchange
+END_OF_BEFORE
+
+MENU Custom_Data_Exchange
+
+BUTTON ImportToTC
+LABEL ImportToTC
+BITMAP  $UGII_USER_DIR\application\imorttotc.bmp
+
+END_OF_MENU
