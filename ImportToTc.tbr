@@ -1,0 +1,8 @@
+TITLE	ImportToTC
+VERSION	170
+DOCK TOP
+
+BUTTON	ImportToTC
+LABEL	ImportToTC
+BITMAP	$UGII_USER_DIR\application\imorttotc.bmp
+ACTION	$UGII_USER_DIR\application\ImportAssemblies.jar
